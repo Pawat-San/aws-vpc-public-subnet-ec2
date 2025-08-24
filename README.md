@@ -1,0 +1,1 @@
+# aws-vpc-public-subnet-ec2
