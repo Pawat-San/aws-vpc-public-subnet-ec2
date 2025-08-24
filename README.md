@@ -6,4 +6,4 @@ This project demonstrates how to create a simple AWS VPC with a public subnet an
 ![VPC Diagram](diagram.png)
 
 ## Steps
-Follow the detailed, step-by-step instructions in [docs/steps.md](docs/steps.md) to build this architecture in your AWS account.
+Follow the detailed, step-by-step instructions in [steps.md) to build this architecture in your AWS account.
